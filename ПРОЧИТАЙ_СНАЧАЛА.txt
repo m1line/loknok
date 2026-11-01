@@ -1,0 +1,9 @@
+СНАЧАЛА НАСТРОЙ SUPABASE
+
+Перед проверкой постов и историй нужно один раз выполнить SUPABASE_SETUP.sql в настоящем Supabase SQL Editor.
+Инструкция находится в SQL_ИНСТРУКЦИЯ.txt.
+Не используй Logs query / Logs Explorer — там доступны только SELECT-запросы.
+
+Для запуска сайта открой эту папку в PyCharm, затем в Terminal выполни:
+npm install
+npm run dev
